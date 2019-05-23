@@ -1,0 +1,12 @@
+ClickGame by vortex
+
+You WILL need SFML to compile this project.
+If you are on Linux, install the libsfml package from your package manager
+of choice.
+
+I used v8vc to develop this project. v8vc is my personal version control
+system based on organizing releases with simplicity. However, v8vc is not
+for public use.
+
+Feel free to contact me at v8@firemail.cc
+I will respond to all e-mail that is relevant to ClickGame.
